@@ -131,4 +131,7 @@ end
 
 The `\n`s are just a special character which gets rendered by the browser as a new line. Kill your running server with CTRL-C and re-run it and refresh your browser. Feel free to cheat a bit and change the random numbers to just be between one and two. That way you can test that both work.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rack-dynamic-web-apps/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rack-dynamic-web-apps/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Dynamic Web Apps with Rack</p>
